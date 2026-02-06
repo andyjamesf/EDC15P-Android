@@ -1,0 +1,27 @@
+# Build outputs
+*.apk
+*.aab
+*.dex
+*.class
+
+# Gradle
+.gradle/
+build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cordova
+platforms/android/app/build/
+platforms/android/build/
+platforms/android/CordovaLib/build/
+platforms/android/.gradle/
